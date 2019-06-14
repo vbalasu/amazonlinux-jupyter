@@ -1,1 +1,1 @@
-docker build -t amazonlinux-jupyter .
+docker build -t vbalasu/amazonlinux-jupyter .
